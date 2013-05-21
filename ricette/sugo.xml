@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe PUBLIC "-//Happy-Monkey//DTD RecipeBook//EN"
+"http://www.happy-monkey.net/recipebook/recipebook.dtd">
+<recipe id="sugo">
+  <title>Sugo semplice</title>
+  
+  <recipeinfo>
+    <blurb></blurb>
+    <author>Valerio Basile</author>
+    <yield>1 pentola di sugo</yield>
+    <preptime>5 min. preparazione, 10+ min. cottura</preptime>
+  </recipeinfo>
+
+  <ingredientlist>
+    <ingredient><quantity>1</quantity> <unit>lt.</unit> <fooditem>passata di pomodoro</fooditem></ingredient>
+    <ingredient><quantity>1</quantity> <unit>cucchiaio</unit> di <fooditem>olio d'oliva</fooditem></ingredient>
+    <ingredient><quantity>1/2</quantity> <fooditem>cipolla</fooditem> triturata</ingredient>
+    <ingredient><fooditem>origano</fooditem> qb</ingredient>
+    <ingredient><fooditem>sale</fooditem> qb</ingredient>
+    <ingredient><quantity>1</quantity> <unit>pizzico</unit> di <fooditem>zucchero</fooditem></ingredient>
+  </ingredientlist>
+
+  <preparation>
+  Soffriggere la cipolla nell'olio in una <equipment>pentola</equipment>. 
+  Versare la passata e aggiungere sale e 
+  zucchero. Dopo circa un minuto, abbassare la fiamma ed aggiungere l'origano.
+  Far cuocere a piacere, girando con un <equipment>cucchiaio id legno</equipment>.
+  </preparation>
+
+  <serving></serving>
+
+  <notes>Lo zucchero combatte la naturale acidita' del pomodoro, ma attenzione
+  a non esagerare.</notes>
+</recipe>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe PUBLIC "-//Happy-Monkey//DTD RecipeBook//EN"
+"http://www.happy-monkey.net/recipebook/recipebook.dtd">
+<recipe id="polpette">
+  <title>Polpette</title>
+  
+  <recipeinfo>
+    <blurb></blurb>
+    <author>Valerio Basile</author>
+    <yield>20-30 polpette</yield>
+    <preptime>15 min. preparazione, 30+ min. cottura</preptime>
+  </recipeinfo>
+
+  <ingredientlist>
+    <ingredient><quantity>500</quantity> <unit>gr.</unit> <fooditem>carne macinata</fooditem></ingredient>
+    <ingredient><quantity>2</quantity> <unit>spicchi</unit> di <fooditem>aglio</fooditem> triturato</ingredient>
+    <ingredient><quantity>1</quantity> <fooditem>uovo</fooditem></ingredient>
+    <ingredient><fooditem>prezzemolo</fooditem> qb</ingredient>
+    <ingredient><fooditem>sale</fooditem> qb</ingredient>
+    <ingredient><quantity>200</quantity> <unit>gr.</unit> <fooditem>mollica di pane</fooditem></ingredient>
+    <ingredient><quantity>1</quantity> <unit>pentola</unit> <fooditem href="sugo">sugo semplice</fooditem></ingredient>    
+  </ingredientlist>
+
+  <preparation>
+  In una <equipment>ciotola</equipment>, versare tutti gli ingredienti e
+  impastare con le mani per alcuni minuti, fino a quando l'impasto non sia
+  uniforme. Fare delle palle di 3-4 cm. di diametro.
+  Portare ad ebollizione il sugo, versarvi le polpette, lasciare cuocere a
+  fuoco lento.
+  </preparation>
+
+  <serving></serving>
+
+  <notes></notes>
+</recipe>
