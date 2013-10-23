@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE recipe PUBLIC "-//Happy-Monkey//DTD RecipeBook//EN"
+"http://www.happy-monkey.net/recipebook/recipebook.dtd">
+<recipe id="pasta_al_salmone">
+  <title>Pasta panna e salmone</title>
+  
+  <recipeinfo>
+    <blurb></blurb>
+    <author>Ivano Basile</author>
+    <yield>~130 gr. di pasta con panna e salmone</yield>
+    <preptime>5 min. preparazione, ~15 min. cottura</preptime>
+  </recipeinfo>
+
+  <ingredientlist>
+    <ingredient><quantity>100</quantity> <unit>gr.</unit> <fooditem>pasta</fooditem></ingredient>
+    <ingredient><fooditem>panna</fooditem> </ingredient>
+    <ingredient><fooditem>sale grosso</fooditem> qb</ingredient>
+    <ingredient><quantity>~30</quantity> <unit>gr.</unit> <fooditem>salmone</fooditem></ingredient>
+  </ingredientlist>
+
+  <preparation>
+  Riempire una <equipment>pentola</equipment> d'acqua, versare del sale grosso e portare ad ebollizione, dopodichè versare la pasta (si consigliano le farfalle) nella <equipment>pentola</equipment>. Nel frattempo, tagliare a pezzettini il salmone e farlo cuocere in <equipment>padella</equipment> a fuoco lento versando la quantità desiderata di panna. Cotta la pasta, scolare e mescolare con panna e salmone.
+  
+  </preparation>
+
+  <serving></serving>
+
+  <notes></notes>
+</recipe>
